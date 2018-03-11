@@ -2,7 +2,7 @@ floor = 0
 ceiling = 26
 my_number = nil
 comp_guess = nil
-# 8087251232
+# 8087251nisanni
 
 
 puts "CPU: Pick a number from 1 to 25"
